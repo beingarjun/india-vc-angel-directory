@@ -14,7 +14,7 @@ The HTML page works from a local repository copy and is suitable for GitHub Page
 
 Organizations were selected based on public association with venture investing, startup investment platforms, or angel networks in India. This list does not promise that an organization is currently investing, accepts unsolicited pitches, or fits a particular company. Confirm details on each linked official website before outreach.
 
-The dataset lists organization names, type, official homepage, and source URL. It omits personal contact details and unverified investment criteria. The list is alphabetized within each category.
+The dataset lists organization names, type, official homepage, and source URL. It omits personal contact details and unverified investment criteria.
 
 ## Contribute corrections
 
